@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6,11,20&customColorList=6,11,20&height=200§ion=header&text=Muneebprogrammeur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&&desc=Développeur%20passionné
+![header](https://capsule-render.vercel.app/api?type=waving&color=6,11,20&customColorList=6,11,20&height=200&section=header&text=Muneebprogrammeur&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=D%C3%A9veloppeur%20passionn%C3%A9&descAlignY=55)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
